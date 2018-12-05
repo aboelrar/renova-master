@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Renova</string>
+    <string name="serve">احجز</string>
+    <string name="login">دخول</string>
+    <string name="user">الاسم</string>
+    <string name="pass">كلمه السر</string>
+    <string name="forgotpassword">نسيت كلمه السر؟</string>
+    <string name="or">OR</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="donthaveaccount">لا امتلك حساب؟</string>
+    <string name="email">البريد الالبكترونى</string>
+    <string name="phone">الهاتف</string>
+    <string name="signup">تسجيل</string>
+    <string name="loginn">تسجيل الدخول؟ </string>
+    <string name="notifcation">الاشعارات</string>
+    <string name="paymentmethod">طريقه الدفع</string>
+    <string name="editdata">تعديل البيانات</string>
+    <string name="chooselan">اختار اللفه</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="products">المنتجات</string>
+    <string name="searchdoctor">ماهى اعراض مرضك؟</string>
+    <string name="appoiements">حجوزاتى</string>
+    <string name="myproducts">منتجاتى</string>
+    <string name="edit">تعديل</string>
+
+
+
+</resources>

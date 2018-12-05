@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.AppBarLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/_40sdp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/appback">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/transparent"
+        android:orientation="horizontal"
+        android:weightSum="1">
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="@dimen/_25sdp"
+            android:layout_weight=".1"
+            android:id="@+id/back"
+            android:layout_gravity="center_vertical"
+            app:srcCompat="@drawable/ic_arrow_back_white_24dp"/>
+        <TextView
+            android:text="@string/products"
+            android:layout_width="0dp"
+            android:layout_weight=".55"
+            android:id="@+id/products"
+            android:textSize="@dimen/_15ssp"
+            android:textStyle="bold"
+            android:gravity="center_vertical"
+            android:textColor="@android:color/white"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+</android.support.design.widget.AppBarLayout>
